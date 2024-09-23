@@ -39,4 +39,4 @@ Train with Other Models
     KNN
     Conclusion
 
-Future improvement
+Future improvements
