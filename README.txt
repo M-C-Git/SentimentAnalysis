@@ -11,6 +11,8 @@ This file provides high level overview of the project.
 4. The result is saved under the same directory of notebooks, preventing rework due to Google Colab disconnection.
 
 **Stock Prediction**
+1. Stock_Sentiment_Prediction.ipynb
+2. Process flows
 Data Processing
     Step 1: read sentiment generation result saved under the same directory
     Step 2: data processing
